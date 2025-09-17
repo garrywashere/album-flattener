@@ -1,5 +1,7 @@
 # Album Flattener
 
+![Example](./example.png)
+
 ## Description
 
 This Python script collects all photos from subfolders (treated as "albums") and copies them into a single root `output` folder.
